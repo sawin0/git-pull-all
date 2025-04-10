@@ -1,4 +1,4 @@
-## 🚀 Git Pull All Projects Script
+## 🚀 Git Sync All Projects Script
 
 This Bash script loops through all subdirectories in a given folder (e.g., `~/projects`) and performs a `git pull` on the **currently checked-out branch** for each Git project.
 
